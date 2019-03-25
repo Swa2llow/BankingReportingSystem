@@ -32,13 +32,15 @@ namespace ReportingSystem.Controllers
 
             foreach (var t in cards)
             {
-                var st = ((t.AvailableCash - 1000) > 0) ? Status.success : Status.error;
+                var tranAmount = new Random().Next(10000) / 10m;
+
+                var st = ((t.AvailableCash - tranAmount) > 0) ? Status.success : Status.error;
 
                 TransactionDTO model = new TransactionDTO
                 {
                     CardId = t.Id,
                     CustomerId = t.CustomerId,
-                    Amount = 1000,
+                    Amount = tranAmount,
                     Status = (int)st,
                     Message = st.ToString(),
                     CreationDate = DateTime.Now
