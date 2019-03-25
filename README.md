@@ -17,8 +17,10 @@
 ReportingSystem => Web.config => connectionString (add your correct connection to MS SQL Server)
 3. compiled and Run app
 
+For API used swagger
 
 ### Prerequisites
 
 MS SQL Server (I used 2017)
+
 Visual Studio 2017
