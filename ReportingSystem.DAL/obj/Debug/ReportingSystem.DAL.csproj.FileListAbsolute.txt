@@ -1,0 +1,11 @@
+C:\Users\Mike\Desktop\Svetlana\DeepCode\Current\ReportingSystem\ReportingSystem.DAL\bin\Debug\ReportingSystem.DAL.dll.config
+C:\Users\Mike\Desktop\Svetlana\DeepCode\Current\ReportingSystem\ReportingSystem.DAL\bin\Debug\ReportingSystem.DAL.dll
+C:\Users\Mike\Desktop\Svetlana\DeepCode\Current\ReportingSystem\ReportingSystem.DAL\bin\Debug\ReportingSystem.DAL.pdb
+C:\Users\Mike\Desktop\Svetlana\DeepCode\Current\ReportingSystem\ReportingSystem.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Mike\Desktop\Svetlana\DeepCode\Current\ReportingSystem\ReportingSystem.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mike\Desktop\Svetlana\DeepCode\Current\ReportingSystem\ReportingSystem.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Mike\Desktop\Svetlana\DeepCode\Current\ReportingSystem\ReportingSystem.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mike\Desktop\Svetlana\DeepCode\Current\ReportingSystem\ReportingSystem.DAL\obj\Debug\ReportingSystem.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\Svetlana\DeepCode\Current\ReportingSystem\ReportingSystem.DAL\obj\Debug\ReportingSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\Svetlana\DeepCode\Current\ReportingSystem\ReportingSystem.DAL\obj\Debug\ReportingSystem.DAL.dll
+C:\Users\Mike\Desktop\Svetlana\DeepCode\Current\ReportingSystem\ReportingSystem.DAL\obj\Debug\ReportingSystem.DAL.pdb
